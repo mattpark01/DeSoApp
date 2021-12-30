@@ -1,3 +1,3 @@
 # DeSoApp
 
-DeSoApp is looking to become the first ever mainstream social media platform.
+DeSoApp is looking to become the first ever decentralized mainstream social media platform.
